@@ -1,0 +1,6 @@
+[package]
+name = "xpm"
+version = "0.1.0"
+authors = ["Cartoon Zhang <palmtale@live.com>"]
+
+[dependencies]
